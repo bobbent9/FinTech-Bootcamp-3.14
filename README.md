@@ -1,10 +1,11 @@
-# FinTech-Bootcamp-3.14
+# FinTech Class 03.14.2020
 
-Who are you? What is your background?
-I am Robert Benton. I work for an RIA in the Charlotte area and I'm here to learn more about FinTech to improve my abilities. 
+![Bull Gang](images/charging-bull-wall-street.jpg)
 
-What are your career goals?
-I plan to be the Director of Technology at my firm within two years.
+## FinTech-Bootcamp-3.14
 
-Why did you choose FinTech as a career?
-Both Finance and Technology have always been interesting to me. 
+### Table of Contents
+[Code Directory](code)
+[Images Directory](images)
+[References Directory](references)
+[Data Directory](data)
